@@ -64,3 +64,8 @@ __3. Messages Setup__
   - Type  `!sgsetjointime <number>` to set the time in seconds until the bot sends the public messages. If you set the time to 0           seconds, the bot will send them imediately. If you don't want to send any public messages, you have to remove all of the above           messages. (They are removed by default)
   
   - The subgame host/streamer must have the admin role and has to type the command `!sethost` to set himself as the subgame                 host/streamer.
+  
+  
+## Commands
+
+TODO
