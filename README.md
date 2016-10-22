@@ -22,7 +22,7 @@ Subscribers and Mods can join the queue by typing a command in a specific channe
 Once you have added the DongerMod bot to your discord server, you can set it up by following this step by step instructions:
 
 
-__1. Role Setup:__
+__1. Role Setup__
   
   You have to create 3 roles on your server and assign them to the according people, so the bot can recognize which member has which       access level. None of those roles needs any special permissions or colors. It serves only a "tag". Only the role name is important.
   
