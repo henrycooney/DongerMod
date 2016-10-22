@@ -26,7 +26,7 @@ __1. Role Setup__
   
   You have to create 3 roles on your server and assign them to the according people, so the bot can recognize which member has which       access level. None of those roles needs any special permissions or colors. It serves only a "tag". Only the role name is important.
   
-  - The first role is the subscriber role. This role must have one of the following names: `Sub, Subs, Subscriber, Subscribers, Twitch         Subscriber`
+  - The first role is the subscriber role. This role must have one of the following names: `Sub`, `Subs`, `Subscriber`, `Subscribers`,       `Twitch Subscriber`
     If your subscribers already have a role with one of those names assigned, you probably don't need to do anything at this point.
   
   - The second role is the moderator role. This role must have one of the following names: `Mod, Mods, Moderator, Subgame Moderator, Bot       Moderator`
