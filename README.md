@@ -51,16 +51,16 @@ __3. Messages Setup__
  
   Execute the following commands in one of your specified mod channels. All of those commands are optional. If you want to remove the     automatic sending of one of those message, just execute the according command without specifying a message: 
   
-  - Type `!setsubgamechannelscheduledmsg \<your message\>` to set the message that will be posted to the subgame channel(s) once the         time to join for the invited subscribers has passed.
+  - Type `!setsubgamechannelscheduledmsg <your message>` to set the message that will be posted to the subgame channel(s) once the         time to join for the invited subscribers has passed.
 
-  - Type `!setnotifchannelschedmsg \<your message\>` to set the message that will be posted to the notification channel(s) once the time     to join for the invited subscribers has passed.
+  - Type `!setnotifchannelschedmsg <your message>` to set the message that will be posted to the notification channel(s) once the time     to join for the invited subscribers has passed.
 
-  - Type `!setsubwipedmsg \<your message\>` to set the message that will be posted to the subgame channel(s) as soon as the queue wipe       command is called.
+  - Type `!setsubwipedmsg <your message>` to set the message that will be posted to the subgame channel(s) as soon as the queue wipe       command is called.
   
-  - Type `!setnotifwipedmsg \<your message\>` to set the message that will be posted to the notification channel(s) as soon as the queue     wipe command is called.
+  - Type `!setnotifwipedmsg <your message>` to set the message that will be posted to the notification channel(s) as soon as the queue     wipe command is called.
   
-  - Type `!setinvitemsg \<your message\>` to set the message that will be sent to every invited subscriber. You can add two different       values to this message. Add `{jointime}` somewhere in your message and it will be replaced by the time in seconds until the public       messages (in the subscriber and notification channels) are being sent. Add `{password}` somewhere in the message and is will be         replaced by the password that was entered when the invite command was used.
+  - Type `!setinvitemsg <your message>` to set the message that will be sent to every invited subscriber. You can add two different       values to this message. Add `{jointime}` somewhere in your message and it will be replaced by the time in seconds until the public       messages (in the subscriber and notification channels) are being sent. Add `{password}` somewhere in the message and is will be         replaced by the password that was entered when the invite command was used.
   
-  - Type  `!sgsetjointime \<number\>` to set the time in seconds until the bot sends the public messages. If you set the time to 0           seconds, the bot will send them imediately. If you don't want to send any public messages, you have to remove all of the above           messages. (They are removed by default)
+  - Type  `!sgsetjointime <number>` to set the time in seconds until the bot sends the public messages. If you set the time to 0           seconds, the bot will send them imediately. If you don't want to send any public messages, you have to remove all of the above           messages. (They are removed by default)
   
   - The subgame host/streamer must have the admin role and has to type the command `!sethost` to set himself as the subgame                 host/streamer.
