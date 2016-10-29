@@ -32,7 +32,7 @@ __1. Role Setup__
   - The second role is the moderator role. This role must have one of the following names: `Mod`, `Mods`, `Moderator`, `Subgame             Moderator`, `Bot Moderator`
     If your moderators already have a role with one of those names assigned, you probably don't need to do anything at this point.
  
-  - The second role is the moderator role. This role must have one of the following names: `Subgame Admin`, `Admin`, `Bot Admin`
+  - The third role is the admin role. This role must have one of the following names: `Subgame Admin`, `Admin`, `Bot Admin`
     This role is mainly meant for the subgame host/streamer himself, as it permitts him to invite people from the queue.
     
     
